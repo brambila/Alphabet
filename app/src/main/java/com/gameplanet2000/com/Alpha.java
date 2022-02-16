@@ -46,7 +46,7 @@ public class Alpha extends Activity {
 	        GameView.sounds = null;
 	    	finish();
 	    	 
-	    	
+	    	//Nota
 	  }
 
 }
